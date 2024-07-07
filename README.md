@@ -4,7 +4,7 @@ Este projeto em C foi desenvolvido por Kayque Allan e Felipe Augusto como parte 
 
 ## Introdução
 
-O Descanso Garantido é um hotel localizado no centro de Itacaré – BA, que visa oferecer um serviço de qualidade aos seus clientes, buscando também a fidelização dos mesmos. Até o momento, o hotel vinha enfrentando dificuldades de organização devido ao uso de planilhas do Excel e cadernos para o controle de estadias, clientes e funcionários. Problemas como reserva duplicada de quartos e falta de integração entre informações foram identificados.
+O Descanso Garantido é um hotel, que visa oferecer um serviço de qualidade aos seus clientes, buscando também a fidelização dos mesmos. Até o momento, o hotel vinha enfrentando dificuldades de organização devido ao uso de planilhas do Excel e cadernos para o controle de estadias, clientes e funcionários. Problemas como reserva duplicada de quartos e falta de integração entre informações foram identificados.
 
 Diante desses desafios, o hotel contratou uma empresa desenvolvedora para criar um software específico que permita gerenciar de forma eficiente as operações diárias.
 
